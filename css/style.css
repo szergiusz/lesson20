@@ -30,3 +30,35 @@ body {
 	background-color: #155d74;
 	font-weight: 800;
 }
+.services {
+	height: 75vh;
+	background-color: #1d809f;
+}
+.services .titleTextWrapp {
+	text-align: center;
+}
+.services h5 {
+	color: gold;
+	margin:0;
+	text-transform:uppercase;
+	font-weight: 800;
+
+}
+.services h2 {
+	margin:0;
+	color:#fff;
+}
+.icon {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: white;
+	text-align: center;
+}
+.icon svg {
+	position: relative;
+	transform: translateY(-50%);
+}
+.iconWrapp {
+	display: inline-block;
+}
